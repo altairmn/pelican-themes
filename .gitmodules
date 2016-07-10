@@ -22,9 +22,6 @@
 [submodule "neat"]
 	path = neat
 	url = https://github.com/BYK/pelican-neat.git
-[submodule "pelican-mockingbird"]
-	path = pelican-mockingbird
-	url = git://github.com/wrl/pelican-mockingbird.git
 [submodule "variant-note"]
 	path = pelican-variant-note
 	url = git://github.com/mpancorbo/pelican-variant-note.git
