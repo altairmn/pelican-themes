@@ -25,9 +25,6 @@
 [submodule "pelican-mockingbird"]
 	path = pelican-mockingbird
 	url = git://github.com/wrl/pelican-mockingbird.git
-[submodule "lannisport"]
-	path = lannisport
-	url = git://github.com/siovene/lannisport.git
 [submodule "variant-note"]
 	path = pelican-variant-note
 	url = git://github.com/mpancorbo/pelican-variant-note.git
