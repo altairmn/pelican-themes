@@ -25,9 +25,6 @@
 [submodule "variant-note"]
 	path = pelican-variant-note
 	url = git://github.com/mpancorbo/pelican-variant-note.git
-[submodule "water-iris"]
-	path = water-iris
-	url = git://github.com/jarv/water-iris
 [submodule "whispers"]
 	path = whispersTheme
 	url = git://github.com/deBorn/whispersTheme.git
